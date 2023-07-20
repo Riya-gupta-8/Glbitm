@@ -1,0 +1,4 @@
+[core]
+    remote = glbitm_storage
+['remote "glbitm_storage"']
+    url = /home/riya/Data/GLBITM/Glbitm_Storage
